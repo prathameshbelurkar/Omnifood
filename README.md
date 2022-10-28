@@ -16,7 +16,7 @@
 
 <hr>
 
-### CSS
+### Cascading Style Sheets (CSS) 
 
 <br>
 
