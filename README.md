@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="img/hero-min.jpg width=450>
+  <img src="img/hero-min.png" width=450>
 </p>
 
 <br>
